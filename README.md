@@ -87,18 +87,18 @@ This repository documents my day-by-day progress in a 60-day Java coding challen
 
 | Day | Topic | Status | Notes | Link |
 |---|---|---|---|---|
-| Day 01 |  | ✅ Complete |  |  |
-| Day 02 |  | ✅ Complete |  |  |
-| Day 03 |  | ✅ Complete |  |  |
-| Day 04 |  | ✅ Complete |  |  |
-| Day 05 |  | ✅ Complete |  |  |
-| Day 06 |  | ✅ Complete |  |  |
-| Day 07 |  | ✅ Complete |  |  |
-| Day 08 |  | ✅ Complete |  |  |
-| Day 09 |  | ✅ Complete |  |  |
-| Day 10 |  | ✅ Complete |  |  |
-| Day 11 |  | ✅ Complete |  |  |
-| Day 12 |  | ✅ Complete |  |  |
+| Day 01 | Introduction to Java and Setting Up the Development Environment | ✅ Complete |  |  |
+| Day 02 | Variables, Data Types, and Basic Output | ✅ Complete |  |  |
+| Day 03 | Operators and Expressions | ✅ Complete |  |  |
+| Day 04 | User Input and Type Casting | ✅ Complete |  |  |
+| Day 05 | Conditional Statements (`if`, `else if`, `else`) | ✅ Complete |  |  |
+| Day 06 | `switch` Statements and Logical Operators | ✅ Complete |  |  |
+| Day 07 | Loops (`for`, `while`, `do-while`) | ✅ Complete |  |  |
+| Day 08 | Nested Loops and Pattern Practice | ✅ Complete |  |  |
+| Day 09 | Methods and Return Types | ✅ Complete |  |  |
+| Day 10 | Method Parameters, Overloading, and Scope | ✅ Complete |  |  |
+| Day 11 | Arrays and Array Iteration | ✅ Complete |  |  |
+| Day 12 | Mini Practice Project / Fundamentals Review | ✅ Complete |  |  |
 | Day 13 |  | ⬜ Not Started |  |  |
 | Day 14 |  | ⬜ Not Started |  |  |
 | Day 15 |  | ⬜ Not Started |  |  |
