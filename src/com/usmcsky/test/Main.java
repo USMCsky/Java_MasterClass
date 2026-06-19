@@ -34,9 +34,5 @@ public class Main {
         System.out.println(message);
         return 10000000;
 
-
-
-
-        
     }
 }
